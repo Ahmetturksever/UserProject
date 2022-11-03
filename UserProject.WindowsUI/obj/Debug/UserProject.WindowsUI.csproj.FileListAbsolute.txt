@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\bin\Debug\UserProject.WindowsUI.exe.config
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\bin\Debug\UserProject.WindowsUI.exe
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\bin\Debug\UserProject.WindowsUI.pdb
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.exe
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.WindowsUI\obj\Debug\UserProject.WindowsUI.pdb
