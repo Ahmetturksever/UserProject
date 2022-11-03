@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\bin\Debug\UserProject.Users.UsersDomain.dll
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\bin\Debug\UserProject.Users.UsersDomain.pdb
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\obj\Debug\UserProject.Users.UsersDomain.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\obj\Debug\UserProject.Users.UsersDomain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\obj\Debug\UserProject.Users.UsersDomain.dll
+C:\Users\user\OneDrive\Desktop\İş projesi\UserProject\UserProject.Users.UsersDomain\obj\Debug\UserProject.Users.UsersDomain.pdb
